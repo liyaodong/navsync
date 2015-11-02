@@ -1,2 +1,6 @@
 .DS_Store
 node_modules
+bower.json
+demo
+Gruntfile.js
+src

@@ -1,5 +1,5 @@
 {
-  "name": "navsync",
+  "name": "@geekpark/navsync",
   "version": "0.1.0",
   "main": "dist/navsync.min.js",
   "description": "Sync navigation menus to page anchors",

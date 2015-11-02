@@ -1,4 +1,12 @@
-# NavSync
+navsync plugin f**k from [@rp4rk/navsync](https://github.com/rp4rk/navsync)
+-------
+
+`gnpm i @geekpark/navsync`
+
+### fork change
+* fix webpack import error
+
+### NavSync
 
 NavSync is an easy to use jQuery plugin that does the heavylifting for syncing your navigation to your content. All it requires is a semantically built navigation menu and a couple of lines of code, easy as pie.
 
